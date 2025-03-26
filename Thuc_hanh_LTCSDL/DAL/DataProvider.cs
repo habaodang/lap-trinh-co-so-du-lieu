@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Data;
 
 namespace DAL
 {
@@ -22,7 +22,41 @@ namespace DAL
         {
             try
             {
-                string= "";
+                if (cn.State == ConnectionState.Closed && cn!=null)
+                {
+                    cn.Open();
+                }
+            }
+            catch (SqlException ex)
+            {
+                throw ex;
+            }
+        }
+
+        private void disconnect()
+        {
+            try
+            {
+                if (cn.State == ConnectionState.Open && cn != null)
+                {
+                    cn.Close();
+                }
+            }
+            catch (SqlException ex)
+            {
+                throw ex;
+            }
+        }
+
+        public Object MyExecuteScalar(string sql,CommandType type)
+        {
+            
+            try
+            {
+                 SqlCommand cmd = new SqlCommand(sql, cn);
+                cmd.CommandType = type;
+                
+                return cmd.ExecuteScalar();
             }
             catch (SqlException ex)
             {
