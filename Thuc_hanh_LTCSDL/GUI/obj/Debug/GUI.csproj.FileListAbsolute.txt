@@ -1,0 +1,14 @@
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\GUI.exe.config
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\GUI.exe
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\GUI.pdb
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\BLL.dll
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\DTO.dll
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\BLL.pdb
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\DTO.pdb
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.HomeCoffee.resources
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.Login.resources
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.exe
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.pdb

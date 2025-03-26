@@ -1,0 +1,9 @@
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\bin\Debug\BLL.dll
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\bin\Debug\BLL.pdb
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\bin\Debug\DAL.dll
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\bin\Debug\DTO.dll
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\bin\Debug\DAL.pdb
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\bin\Debug\DTO.pdb
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\obj\Debug\BLL.dll
+D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\BLL\obj\Debug\BLL.pdb
