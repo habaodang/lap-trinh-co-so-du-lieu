@@ -3,3 +3,8 @@ D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DTO\bin\Debug\DTO.pdb
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DTO\obj\Debug\DTO.dll
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DTO\obj\Debug\DTO.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DTO\bin\Debug\DTO.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DTO\bin\Debug\DTO.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DTO\obj\Debug\DTO.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DTO\obj\Debug\DTO.pdb

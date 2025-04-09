@@ -63,6 +63,7 @@
             this.usernameTxt.Name = "usernameTxt";
             this.usernameTxt.Size = new System.Drawing.Size(198, 20);
             this.usernameTxt.TabIndex = 1;
+            this.usernameTxt.Text = "admin";
             // 
             // passwordLbl
             // 
@@ -77,8 +78,10 @@
             // 
             this.passwordTxt.Location = new System.Drawing.Point(239, 182);
             this.passwordTxt.Name = "passwordTxt";
+            this.passwordTxt.PasswordChar = '*';
             this.passwordTxt.Size = new System.Drawing.Size(198, 20);
             this.passwordTxt.TabIndex = 2;
+            this.passwordTxt.Text = "123";
             // 
             // loginBtn
             // 

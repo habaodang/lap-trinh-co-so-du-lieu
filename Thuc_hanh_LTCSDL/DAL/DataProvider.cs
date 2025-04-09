@@ -8,7 +8,7 @@ using System.Data;
 
 namespace DAL
 {
-    class DataProvider
+    public class DataProvider
     {
         private SqlConnection cn;
 
@@ -18,7 +18,7 @@ namespace DAL
             cn = new SqlConnection(strcn);
         }
 
-        private void connect()
+        public void connect()
         {
             try
             {
@@ -33,10 +33,11 @@ namespace DAL
             }
         }
 
-        private void disconnect()
+        public void disconnect()
         {
             try
             {
+               
                 if (cn.State == ConnectionState.Open && cn != null)
                 {
                     cn.Close();
@@ -46,6 +47,7 @@ namespace DAL
             {
                 throw ex;
             }
+           
         }
 
         public Object MyExecuteScalar(string sql,CommandType type)
@@ -53,7 +55,8 @@ namespace DAL
             
             try
             {
-                 SqlCommand cmd = new SqlCommand(sql, cn);
+                connect();
+                SqlCommand cmd = new SqlCommand(sql, cn);
                 cmd.CommandType = type;
                 
                 return cmd.ExecuteScalar();
@@ -62,6 +65,26 @@ namespace DAL
             {
                 throw ex;
             }
+            finally
+            {
+                disconnect();
+            }
+        }
+        public SqlDataReader myExecuteReader(string sql,CommandType type)
+        {
+            try
+            {
+             
+                SqlCommand cmd = new SqlCommand(sql, cn);
+                cmd.CommandType = type;
+
+                return cmd.ExecuteReader();
+            }
+            catch (SqlException ex)
+            {
+                throw ex;
+            }
+            
         }
     }
 }

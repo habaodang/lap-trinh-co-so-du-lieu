@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DTO;
+using BLL;
 
 namespace GUI
 {
@@ -30,14 +31,15 @@ namespace GUI
 
         private bool checkLogin(Account account)
         {
-            return true;
+            LoginBLL loginBLL = new LoginBLL();
+            return loginBLL.login(account);
         }
 
         private void loginBtn_Click(object sender, EventArgs e)
         {
             string user,pass;
             user = usernameTxt.Text;
-            pass = passwordLbl.Text;
+            pass = passwordTxt.Text;
 
             Account account = new Account(user, pass);
 
@@ -46,7 +48,7 @@ namespace GUI
                     this.DialogResult = DialogResult.OK;
 
             }
-
+ 
             else
             {
                 DialogResult result= MessageBox.Show("Tai khoan mat khau khong chinh xac!!! ", "thong bao", MessageBoxButtons.RetryCancel, MessageBoxIcon.Error);

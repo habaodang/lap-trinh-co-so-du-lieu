@@ -12,3 +12,21 @@ D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.Properties.Resour
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.exe
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\GUI.exe.config
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.exe
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\GUI.exe
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\GUI.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\BLL.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\DTO.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\DAL.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\BLL.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\DTO.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\bin\Debug\DAL.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.HomeCoffee.resources
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.Login.resources
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.SupplierUCs.resources
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\GUI\obj\Debug\GUI.Form1.resources

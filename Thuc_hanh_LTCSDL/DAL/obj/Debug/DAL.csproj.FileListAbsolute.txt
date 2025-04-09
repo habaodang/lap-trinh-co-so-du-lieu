@@ -5,3 +5,10 @@ D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DAL\bin\Debug\DTO.pdb
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DAL\obj\Debug\DAL.dll
 D:\lajp trinh co so du lieu\Thuc_hanh_LTCSDL\DAL\obj\Debug\DAL.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\bin\Debug\DAL.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\bin\Debug\DAL.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\bin\Debug\DTO.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\bin\Debug\DTO.pdb
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\obj\Debug\DAL.dll
+D:\lap-trinh-co-so-du-lieu\Thuc_hanh_LTCSDL\DAL\obj\Debug\DAL.pdb
